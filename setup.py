@@ -32,7 +32,7 @@ setup(
     },
     install_requires = [
         'awesome-slugify==1.6.5',
-        'Django==1.8.4',
+        'Django==2.2.25',
         'django-allauth==0.23.0',
         'django-cors-headers==1.1.0',
         'django-cron==0.4.3',
