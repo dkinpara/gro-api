@@ -41,7 +41,7 @@ setup(
         'django-rest-swagger==0.3.4',
         'django-solo==1.1.0',
         'djangorestframework==3.2.2',
-        'PyYAML==3.11',
+        'PyYAML>=5.4',
         'tortilla==0.4.1',
         'voluptuous==0.8.7',
     ],
