@@ -7,7 +7,7 @@ README_TEXT = readme.read()
 readme.close()
 
 dev_reqs = [
-    'django-debug-toolbar==1.3.2',
+    'django-debug-toolbar>=1.11.1',
     'django-extensions==1.5.5',
 ]
 
